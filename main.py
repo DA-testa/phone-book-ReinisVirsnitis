@@ -1,3 +1,6 @@
+#Reinis Virsnitis
+#17. grupa
+
 # python3
 
 class Query:
